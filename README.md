@@ -4,4 +4,6 @@ Olá! Seja muito bem vindo(a) ao nosso livro de receitas. Espero que você se de
 
 - Torta de frango :chicken:
 
+- Pavê
+
   
